@@ -67,7 +67,7 @@ The application uses React/TypeScript (styled with Tailwind CSS/shadcn/ui) for t
 This project strictly followed the Vibe Coding competition rule of **no manual code edits** after the initial scaffolding phase.
 
 1.  **Initial Scaffolding:** The base React/Tailwind/shadcn file structure and some initial placeholder components were generated using **Lovable.dev**. The chat history for this phase can be found here:
-    * **[Link to Lovable Chat History - Optional, if you have it]** _(<- Add link if available)_
+    https://lovable.dev/projects/eb7857f1-15eb-4c58-b879-a341d3271a50?magic_link=mc_37fd78b1-752e-4a0b-83ca-e987ef3a037d
 2.  **Core Development & Iteration (Gemini 2.5 Pro):** After Lovable credits expired, **Google Gemini 2.5 Pro** was used for approximately 90% of the subsequent development and debugging via direct copy-pasting of generated code into VS Code. This included:
     * Generating/modifying React components (`.tsx`).
     * Implementing frontend logic, state management, and API calls (Axios).
@@ -77,7 +77,7 @@ This project strictly followed the Vibe Coding competition rule of **no manual c
     * **Debugging:** All errors encountered (CORS, NaN/Decimal conversion, type errors, calculation mistakes, UI bugs, Git issues, etc.) were resolved by describing the issue to Gemini 2.5 Pro and implementing the code changes it provided.
 3.  **Process:** Code provided by the AI was copy-pasted directly, replacing existing code blocks entirely. No manual typing or tweaking occurred in the code files.
 4.  **Gemini Prompts Record:** Detailed history of prompts given to Gemini 2.5 Pro:
-    * **[Link to your Google Doc / Shared Gemini Chat History Here]** _(<- Add link here)_
+    (https://docs.google.com/document/d/1r9Ir9cLiQ4xDR4JMAm5qow-MsE4pgI7MaxxualKYoAE/edit?usp=sharing])
 
 ## Development Process & Challenges (Solved with AI)
 
