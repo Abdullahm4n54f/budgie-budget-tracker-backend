@@ -89,7 +89,6 @@ This project strictly followed the Vibe Coding competition rule of **no manual c
 * **UI Bugs:** Fixed invisible buttons, font application (`font-grand-hotel`, then reverted), layout issues, scrollbar styling (`tailwind-scrollbar`), and date picker styling hints through prompts. Replaced a broken budget pie chart with a functional progress bar via prompts.
 * **Git & Environment:** Used Gemini for Git commands (`init`, config, remote, push), `.gitignore` setup, Python `venv`, and dependency conflict resolution (`tailwind-scrollbar` version). Ensured secure password handling using `.env` files via prompts.
 
-*(The rest of the README sections: Local Setup Instructions, Performance Notes, Links remain the same as the previous version)*
 
 ## Development Process & Challenges (Solved with Gemini 2.5 Pro)
 
@@ -204,5 +203,5 @@ This project strictly followed the Vibe Coding competition rule of **no manual c
 
 * **Frontend Code:** [https://github.com/Abdullahm4n54f/budgie-budget-tracker-frontend](https://github.com/Abdullahm4n54f/budgie-budget-tracker-frontend)
 * **Backend Code:** [https://github.com/Abdullahm4n54f/budgie-budget-tracker-backend](https://github.com/Abdullahm4n54f/budgie-budget-tracker-backend)
-* **LLM Prompts:** [Link to your Google Doc / Shared Chat History Here] _(<- Add link)_
-* **Demo Video:** [Link to your 1-Minute Demo Video Here] _(<- Add link)_
+* **LLM Prompts:** [https://docs.google.com/document/d/1r9Ir9cLiQ4xDR4JMAm5qow-MsE4pgI7MaxxualKYoAE/edit?usp=sharing]
+* **Demo Video:** https://youtu.be/zrVgzglxszA 
